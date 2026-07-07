@@ -1,61 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jasmin Varghese</h1>
-<h3 align="center">Computer Science Engineering Student | Software Developer | AI & Health Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-Building technology that solves real-world problems through AI, Web Development, and Healthcare Innovation.
-</p>
+# Hi, I'm Jasmin Varghese 👋⚡
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaami22&label=Profile%20Views&color=0e75b6&style=flat" alt="jaami22" />
-</p>
+### Computer Science Engineer | Software Developer | AI & Health Tech Innovator
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jaami22&theme=algolia&margin-w=10&margin-h=10" alt="jaami22" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+bold+ideas+into+real+technology.;Turning+code+into+impact.;AI+%2B+Healthcare+%2B+Fearless+Engineering.;Women+in+Tech%2C+Leading+the+Way." alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=jaami22&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="jaami22 profile views" />
+
+<a href="https://www.linkedin.com/in/jasmin-varghese">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jasminpanavely@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/jaami22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+### 💥 About Me
 
-- 🎓 Final Year **B.Tech Computer Science Engineering** Student
-- 💻 Software Developer passionate about building impactful applications
-- 🧠 Exploring **Artificial Intelligence, Machine Learning, Healthcare AI & Bioinformatics**
-- 🌱 Currently learning **Python, AI/ML, Next.js, React, Tailwind CSS, Node.js**
-- 🔭 Currently working on **Young Innovators Programme (YIP) Portal** during my internship
-- 👨‍💻 Interested in developing **AI-powered solutions for healthcare and socially impactful applications**
-- 🤝 Looking to collaborate on **Open Source, AI, Web Development and Healthcare Technology Projects**
+I'm a final-year **B.Tech Computer Science Engineering** student who builds with intention — not just code that runs, but code that **solves real problems**. I lead teams, ship products, and back every line I write with purpose.
+
+- 🎓 Final Year B.Tech CSE Student
+- 💻 Software Developer who ships real, working products
+- 🧠 Deep-diving into **AI, Machine Learning, Healthcare AI & Bioinformatics**
+- 🌱 Sharpening skills in **Python, AI/ML, Next.js, React, Tailwind CSS, Node.js**
+- 🔭 Currently building the **Young Innovators Programme (YIP) Portal**
+- 👨‍💻 Focused on **AI-powered solutions for healthcare and social impact**
+- 🤝 Open to collaborating on **Open Source, AI, Web Dev & HealthTech**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, UI Development**
-- 📫 Reach me at **jasminpanavely@gmail.com**
+- 📫 **jasminpanavely@gmail.com**
+
+> *"I don't wait for a seat at the table — I build the table."*
 
 ---
 
-## 💡 Interests
+### 🏆 Leadership & Impact
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧬 Computational Biology & Bioinformatics
-- 🏥 Healthcare Technology
-- 🌐 Full Stack Web Development
-- 🎨 UI/UX Design
-- 📊 Data Analysis
-- ☁️ Cloud Computing
-- 🚀 Open Source Contributions
+| Role | Organization |
+|---|---|
+| 💼 Software Development Intern | Kerala Development and Innovation Strategic Council (K-DISC) |
+| 👩‍💻 Women in Tech Lead | TinkerHub CEAL |
+| 🩺 Vice Chair | IEEE EMBS CEAL |
+| 🌱 Former Treasurer | FOSS CEAL |
 
----
-
-## 🏆 Experience & Leadership
-
-- 💼 Software Development Intern – **Kerala Development and Innovation Strategic Council (K-DISC)**
-- 👩‍💻 Women in Tech Lead – **TinkerHub CEAL**
-- 🩺 Vice Chair – **IEEE EMBS CEAL**
-- 🌱 Former Treasurer – **FOSS CEAL**
+Leading teams isn't a side note in my story — it's the throughline. Every role above is a room where I showed up, spoke up, and made things happen.
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Arsenal
 
-### Languages
+**Languages**
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
@@ -64,7 +64,7 @@ Building technology that solves real-world problems through AI, Web Development,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </p>
 
-### Frontend
+**Frontend**
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
@@ -74,7 +74,7 @@ Building technology that solves real-world problems through AI, Web Development,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
 </p>
 
-### Backend & Database
+**Backend & Database**
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
@@ -82,7 +82,7 @@ Building technology that solves real-world problems through AI, Web Development,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
@@ -95,60 +95,42 @@ Building technology that solves real-world problems through AI, Web Development,
 
 ---
 
-## 🌟 Current Focus
+### 📌 Featured Projects
 
-- 🤖 AI & Machine Learning
-- 🧬 Healthcare AI Applications
-- 🌐 Full Stack Development
-- ☁️ Cloud Technologies
-- 📱 Building user-friendly digital experiences
-- 🔬 Research on socially impactful technology
+- 🛡️ **Smart Privacy & Security Application** — protecting users where it matters most
+- 🌱 **Young Innovators Programme (YIP) Portal** — currently in build
+- 🌍 **AI-driven Social Impact Solutions** — tech aimed at real-world change
+- 🏥 **Healthcare & Bioinformatics AI Projects** *(actively exploring)*
 
 ---
 
-## 📌 Featured Projects
+### 📊 GitHub Stats
 
-- 🛡️ Smart Privacy & Security Application
-- 🌱 Young Innovators Programme (YIP) Portal
-- 🌍 AI-driven Social Impact Solutions
-- 🏥 Healthcare & Bioinformatics Based AI Projects *(Currently Exploring)*
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=jaami22&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaami22&layout=compact&theme=tokyonight&border_radius=10" width="30%"/>
 
-## 📈 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaami22&theme=tokyonight&border_radius=10" width="60%"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaami22&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=jaami22&theme=algolia&margin-w=10&margin-h=10&column=4" alt="jaami22 trophies"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaami22&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaami22&theme=tokyo-night&hide_border=true" width="95%"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaami22&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-<a href="https://github.com/jaami22">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
-</a>
+### 🌐 Let's Connect
 
-<a href="https://www.linkedin.com/in/jasmin-varghese">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
+<a href="https://github.com/jaami22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jasmin-varghese"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jasminpanavely@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="mailto:jasminpanavely@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-</a>
-</p>
+<br/><br/>
 
----
+**"Technology becomes powerful when it's built by people who refuse to shrink."**
 
-<h3 align="center">
-✨ "Technology becomes meaningful when it improves people's lives."
-</h3>
+</div>
