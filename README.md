@@ -108,10 +108,10 @@ Leading teams isn't a side note in my story — it's the throughline. Every role
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaami22&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaami22&layout=compact&theme=tokyonight&border_radius=10" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jaami22&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaami22&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=86400" width="30%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaami22&theme=tokyonight&border_radius=10" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=jaami22&theme=tokyonight&border_radius=10" width="60%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=jaami22&theme=algolia&margin-w=10&margin-h=10&column=4" alt="jaami22 trophies"/>
 
